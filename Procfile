@@ -1,1 +1,1 @@
-web: gunicorn raiseforms.wsgi --log-file -
+web: gunicorn django_facebook_ex.wsgi --log-file -
